@@ -25,3 +25,28 @@
 ​	
 
 ##Atualizando 
+
+1 - digite: 
+
+git status  
+
+​	Para saber quais alterações existem
+
+2 - Digite 
+
+git add . 
+
+​	Para engatilhar todas as mudanças do diretório
+
+3 - Agora vamos comitar, digite: 
+
+git commit -m "messagem sobre as alterações feitas nesse commit" 
+
+4 - Agora sim upload será feito com o comando:
+
+git push origin main
+
+5 - para conferir... digite: 
+
+git status
+
