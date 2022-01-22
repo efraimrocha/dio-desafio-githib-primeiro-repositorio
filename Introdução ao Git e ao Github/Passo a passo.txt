@@ -1,0 +1,27 @@
+#Desafio DIO - Git/GitHub
+
+
+
+##Criando um repositório no git, clonando, editando e atualizando o repositório.
+
+
+
+1 - Abra o Github em seu navegador.
+
+2 - Clique na opção Repositries
+
+3 - Clique no botão New 
+
+4 - Coloque o nome do seu repositório
+
+5 - Com seu repositório criado, clique no botão code, e copie o link da aba HTTPS.
+
+6 - Abra o Git Bash e navegue até a pasta onde deseja clonar o repositório
+
+7 - Digite: git clone https://cole-aqui-chave-https-copiada
+
+​	Obs: Atenção, caso você na hora de colar digitar um ctrl+v, e mesmo que não aconteça nada visível no terminal, foi adicionado alguns caracteres. Portanto, na hora de colar, clique com o botão direito do mouse e vá na opção plaste/colar.
+
+​	
+
+##Atualizando 
